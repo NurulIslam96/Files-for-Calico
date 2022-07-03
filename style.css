@@ -4,6 +4,7 @@ h2{
     border-radius: 4px;
     background-color: red;
     color:white;
+    
 }
 
 .browser-hover{
@@ -14,4 +15,8 @@ h2{
 
 .browser-hover:hover{
     text-decoration: underline solid currentColor;
+}
+
+body{
+    background-image: url(images/browser.jpg);
 }
