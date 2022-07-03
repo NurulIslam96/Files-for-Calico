@@ -1,0 +1,17 @@
+h2{
+    border: 4px red solid;
+    margin-right: 72%;
+    border-radius: 4px;
+    background-color: red;
+    color:white;
+}
+
+.browser-hover{
+    text-decoration: underline solid transparent;
+    color: red;
+    transition: text-decoration 0.25s ease;
+}
+
+.browser-hover:hover{
+    text-decoration: underline solid currentColor;
+}
